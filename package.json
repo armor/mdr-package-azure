@@ -5,7 +5,7 @@
   "description": "Contains modules for deploying and managing Azure infrastructure.",
   "repository": {
     "type": "git",
-    "url": "git@github.com:quantum-sec/package-azure.git"
+    "url": "git@github.com:armor/mdr-package-azure.git"
   },
   "author": "Quantum Security Pte. Ltd.",
   "license": "SEE LICENSE IN LICENSE",
